@@ -1,0 +1,16 @@
+/* Add to your existing index.css */
+:root {
+  --mobile-breakpoint: 600px;
+  --tablet-breakpoint: 900px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.5;
+  min-height: 100vh;
+}
