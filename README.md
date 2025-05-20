@@ -45,5 +45,5 @@ A modern, mobile-responsive e-commerce web application built with React, TypeScr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/react-ecommerce-store.git
+   git clone https://github.com/Abdulshaikchotu/e_commercewebapp.git
    cd react-ecommerce-store
